@@ -22,7 +22,7 @@
     if(!isAsideClosed){
       listOrders.classList.add('inactive');
     } 
-    closeProductDetailAside();
+    
     movilListMenu.classList.toggle('inactive');
   }
 
